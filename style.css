@@ -24,3 +24,15 @@ body{
     border:2px solid black;
 
 }
+
+.cell {
+    border: 1px solid #ddd;
+}
+
+.snake {
+    background: rgb(208, 121, 121);
+}
+
+.head {
+    background: brown;
+}
